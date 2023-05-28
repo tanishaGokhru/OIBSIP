@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Monoton&family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Satisfy&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Satisfy&family=Special+Elite&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Rubik+Vinyl&family=Satisfy&family=Special+Elite&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Rubik+Vinyl&family=Satisfy&family=Sigmar&family=Special+Elite&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Courgette&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Rubik+Vinyl&family=Satisfy&family=Sigmar&family=Special+Elite&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+.nav{
+    margin-left: 10px;
+    padding-left:0 1.5em;
+    
+}
+.navbar{
+    font-family: 'Sigmar', cursive;
+    font-size: 100px;
+    color:blueviolet;
+    list-style: none;
+    text-decoration: underline;
+    text-shadow: #ffccff;
+}
+
+.navbarLI{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    list-style: none;
+    color:black;
+}
+.header{
+    overflow:hidden;
+    position: fixed;
+    background-color: #ffccff;
+    top:0;
+    width: 120%;
+
+}
+
+.div {
+    background: linear-gradient(to left, #663300 0%, #ffffff 100%);
+}
+.headone{
+    font-family: 'Cabin Sketch', cursive;
+    font: size 35px;
+
+}
+.container{
+    height:320px ;
+    width:1000px ;
+    background-color:rosybrown;
+    text-underline-position:below;
+    border-radius: 1000px;
+    font-size:20px ;
+    font-family: 'Satisfy', cursive;
+}
+
+.headtwo{
+    font-size: 65px;
+    font-family: 'Rubik Vinyl', cursive;
+    color:maroon;
+}
+
+.course{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.courseinfo{
+    text-align: center;
+    font-size: 25px;
+}
+
+.applyNow{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 25px 42px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 26px;
+    align-items: center;
+}
+
+.quote1{
+    background-color:rosybrown;
+    color: black;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.quote2{
+    background-color:rosybrown;
+    color: black;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.quote3{
+    background-color:rosybrown;
+    color: black;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
+.promise{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration:wavy;
+}
+
+.headthree{
+    
+    color:brown;
+}
+
+.promise1{
+    border-radius: 1000px;
+    
+    height: 100px;
+    width: 300px;
+}
+
+.promise2{
+    border-radius: 1000px;
+    
+    height: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+
+.promise3{
+    border-radius: 1000px;
+    
+    height: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+.circle1{
+    height:300px;
+    width: 320px;
+    background-color: #ffffff;
+    border-radius: 500px;
+
+}
+
+.circle2{
+    height:300px;
+    width: 320px;
+    background-color:rosybrown;
+    border-radius: 500px;
+
+}
+.circle3{
+    height:300px;
+    width: 320px;
+    background-color: #ffccff;
+    border-radius: 500px;
+}
+.circle4{
+    height:300px;
+    width: 320px;
+    background-color:rosybrown;
+    border-radius: 500px;
+}
+.circle5{
+    height:300px;
+    width: 320px;
+    
+    border-radius: 500px;
+}
+.price{
+    background-color:#663300;
+    color:white;
+    font-size: 50px;
+    text-align:justify;
+    font-family: 'Courgette', cursive; 
+    
+}
+
+.footer{
+    height: 200px;
+    background-color:black;
+    color: white;
+    font-size: 30px;
+}
+
+.subfooter{
+    height: 70px;
+    background-color: rgb(60, 59, 59);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    align-items: center;
+}
+.insta{
+    height:50px;
+    width: 50px;
+}
+.face{
+    height:50px;
+    width: 50px;
+}
